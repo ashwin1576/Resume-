@@ -1,0 +1,63 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume - Aswin Srinivasan</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background-color: #f9f9f9;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: #fff;
+      padding: 20px;
+      border: 1px solid #ccc;
+    }
+    h1, h2 {
+      color: #333;
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 5px;
+    }
+    h2 {
+      font-size: 20px;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 5px;
+      margin-top: 20px;
+    }
+    p {
+      margin: 5px 0;
+    }
+    ul {
+      margin: 5px 0 10px 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Aswin Srinivasan</h1>
+    <p><strong>College:</strong> TJS College of Arts and Science</p>
+    <p><strong>Year:</strong> 2nd Year Student</p><h2>Skills</h2>
+<ul>
+  <li>Python</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>C++</li>
+  <li>Data Structures</li>
+</ul>
+
+<h2>Education</h2>
+<p>Bachelor of Computer Applications (BCA)<br>
+   TJS College of Arts and Science<br>
+   University of Madras</p>
+
+<h2>About Me</h2>
+<p>I am a motivated 2nd year college student with an interest in programming and computer science. I am eager to learn new technologies and improve my skills.</p>
+
+  </div>
+</body>
+</html>
